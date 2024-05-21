@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Fixitall188",
+  "repo": "container-dxxz9oi",
+  "name": "Fixitall188",
+  "email": "Fixitall188@gmail.com",
+}
